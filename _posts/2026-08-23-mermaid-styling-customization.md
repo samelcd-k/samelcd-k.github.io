@@ -1,5 +1,5 @@
 ---
-title: "[Mermaid #7] 도형 색상 변경 및 스타일/특수효과 커스텀 가이드"
+title: "[Mermaid #8] 도형 색상 변경 및 스타일/특수효과 커스텀 가이드"
 date: 2026-08-23 17:30:00 +0900
 categories: [개발, Mermaid]
 tags: [mermaid, 머메이드, 다이어그램, 스타일링, 색상, css, classDef, linkStyle, 커스텀, 마크다운]
