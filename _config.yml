@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: OnewPaPa # the main title
 
-tagline: nahoon.lee의 개발 블로그 # it will display as the subtitle
+tagline: samelcd-k의 개발 블로그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  nahoon.lee의 개발 블로그입니다.
+  samelcd-k의 개발 블로그입니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

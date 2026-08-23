@@ -84,9 +84,9 @@ bundle install
 
 ```yaml
 title: OnewPaPa                    # 블로그 제목
-tagline: nahoon.lee의 개발 블로그   # 부제목
+tagline: samelcd-k의 개발 블로그   # 부제목
 description: >-
-  nahoon.lee의 개발 블로그입니다.
+  samelcd-k의 개발 블로그입니다.
 
 url: "https://[내아이디].github.io"  # 배포될 블로그 주소
 
