@@ -278,5 +278,15 @@ flowchart LR
 | **연결선 스타일** | `linkStyle [인덱스/default] [속성:값]` | `linkStyle 0 stroke:#f00,stroke-width:2px;` |
 | **서브그래프 스타일** | `style [서브그래프ID] [속성:값]` | `style GroupA fill:#e6f7ff,stroke:#1890ff` |
 | **클릭 링크/툴팁** | `click [노드ID] "[URL]" "[툴팁]"` | `click A "https://..." "바로가기"` |
-| **전역 테마 디렉티브** | `%%{init: {'theme': 'dark'}}%%` | 다이어그램 최상단에 선언 |
+---
+
+## 📚 Mermaid 다이어그램 시리즈 목차
+1. [[Mermaid #1] 순서도(Flowchart) 문법 및 사용법](/posts/mermaid-flowchart/)
+2. [[Mermaid #2] 시퀀스 다이어그램(Sequence Diagram) 문법 및 API 흐름도](/posts/mermaid-sequence-diagram/)
+3. [[Mermaid #3] 클래스 다이어그램(Class Diagram) 문법 및 클래스 설계](/posts/mermaid-class-diagram/)
+4. [[Mermaid #4] 상태 다이어그램(State Diagram) 문법 및 상태 머신](/posts/mermaid-state-diagram/)
+5. [[Mermaid #5] ER 다이어그램(ERD) 문법 및 DB 모델링](/posts/mermaid-er-diagram/)
+6. [[Mermaid #6] Git 그래프(Git Graph) 문법 및 브랜치 시각화](/posts/mermaid-gitgraph/)
+7. [[Mermaid #7] 간트 차트(Gantt Chart) 문법 및 일정 관리](/posts/mermaid-gantt-chart/)
+8. **[Mermaid #8] 도형 색상 변경 및 스타일/특수효과 커스텀 가이드** (현재 글)
 {% endraw %}
